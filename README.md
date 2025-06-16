@@ -1,4 +1,4 @@
-<h2>My-Self Syed Siddiq and I'm a self-taught web developer from India, learning full stack development.</h2>
+<h2>My-Self Syed Siddiq and I'm a self-taught web developer from India(Bangalore), learning full stack development.</h2>
 
 
 ###
